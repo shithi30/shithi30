@@ -13,11 +13,11 @@ I have expertise in the modern Data/Growth analytics stack, with a knack for cro
 - 💰 <strong>FinTech Data Analytics:</strong> Operational/Campaign/Log analysis, Predictive + inferential stats for credits
 
 ### Find me on:
-<a href="https://public.tableau.com/app/profile/shithi.maitra/vizzes"><img width="35" src="https://live.staticflickr.com/979/42099499622_eca95d19b4_w.jpg"></a>
-<a href="https://www.linkedin.com/in/shithi-maitra/"><img width="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzrdlv1qle8ssb16zhv0dVmNpGUcLxqIlo-A&s"></a>
-<a href="https://github.com/shithi30"><img width="35" src="https://static.vecteezy.com/system/resources/previews/016/833/872/original/github-logo-git-hub-icon-on-white-background-free-vector.jpg"></a>
-<a href="https://scholar.google.com/citations?user=f-NGy1YAAAAJ&hl=en"><img width="35" src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png"></a>
-<a href="https://www.researchgate.net/profile/Shithi-Maitra"><img width="35" src="https://cdn.iconscout.com/icon/free/png-256/free-researchgate-3521760-2945204.png?f=webp"></a>
+<a href="https://public.tableau.com/app/profile/shithi.maitra/vizzes"><img width="35" height="35" src="https://live.staticflickr.com/979/42099499622_eca95d19b4_w.jpg"></a>
+<a href="https://www.linkedin.com/in/shithi-maitra/"><img width="35" height="35" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzrdlv1qle8ssb16zhv0dVmNpGUcLxqIlo-A&s"></a>
+<a href="https://github.com/shithi30"><img width="35" height="35" src="https://static.vecteezy.com/system/resources/previews/016/833/872/original/github-logo-git-hub-icon-on-white-background-free-vector.jpg"></a>
+<a href="https://scholar.google.com/citations?user=f-NGy1YAAAAJ&hl=en"><img width="35" height="35" src="https://user-images.githubusercontent.com/66117993/96351903-818a8b00-1084-11eb-96f6-3a931d66fff6.png"></a>
+<a href="https://www.researchgate.net/profile/Shithi-Maitra"><img width="35" height="35" src="https://cdn.iconscout.com/icon/free/png-256/free-researchgate-3521760-2945204.png?f=webp"></a>
 
 
 
