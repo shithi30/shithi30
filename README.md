@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ### Ask me about:
-🤖 <strong>Web Scraping Technologies & Applications:</strong> Automated market research and competition analytics, Automation of manual processes
+🤖 <strong>Web Scraping Technologies & Applications:</strong> Automated market research and competition analytics
 <br>
-✨ <strong>Application of LLMs:</strong> Integration of ChatGPT API for eliciting service loopholes from CX data (eCommerce), Prompt engineering
+✨ <strong>Application of LLMs:</strong> Integration of ChatGPT API for eliciting service loopholes from eCom/CX data
 <br>
-♻️ <strong>Better Retail & Supply Chain Analytics:</strong> Handling 6M+ datapoints daily, for generating of 4 KPI matrices daily; Smart replenishment
+♻️ <strong>Better Retail & Supply Chain Analytics:</strong> Daily Handling 6M+ datapoints for KPI matrices, Smarter RPL
 <br>
-🏁 <strong>Mining Unstructured Data:</strong> Parsing of large pdf files, texts and parse useful info. in structured form, Application of OCR tech.
+🏁 <strong>Mining Unstructured Data:</strong> Parsing info. from large pdf texts into structured form, OCR Applications
 <br>
-💰 <strong>FinTech Data Analytics:</strong> Operational & business analytics, Campaign analysis, Predictive+inferential models for credit analytics
+💰 <strong>FinTech Data Analytics:</strong> Operational/Campaign/Log analysis, Predictive + inferential stats for credits
 
