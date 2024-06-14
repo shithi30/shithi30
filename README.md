@@ -1,6 +1,6 @@
 ## Hi! I am Shithi 👋
 
-I have expertise in the modern Data/Growth analytics, with a knack for cross-functional collaboration. I am new to Canada and am looking for roles in the analytics domain.
+I have expertise in the modern Data/Growth analytics stack, with a knack for cross-functional collaboration. I have an academic bkg. in Computer Science, and also have research articles presened in intl. conferences. I am new to Canada and am looking for roles in the analytics domain.
 
 <!--
 **shithi30/shithi30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
