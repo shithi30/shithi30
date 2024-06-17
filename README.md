@@ -9,7 +9,7 @@
 - 🤖 <strong>Web Scraping Technologies & Applications:</strong> Automated market research and competition analytics
 - ✨ <strong>Application of LLMs:</strong> Integration of ChatGPT API for eliciting service loopholes from eCom/CX data
 - ♻️ <strong>Better Retail & Supply Chain Analytics:</strong> Daily Handling 6M+ datapoints for KPI matrices, Smarter RPL
-- 🏁 <strong>Mining Unstructured Data:</strong> Parsing info. from large pdf texts into structured form, OCR Applications
+- 🎥 <strong>Mining Unstructured Data:</strong> Parsing info. from large pdf texts into structured form, OCR Applications
 - 💰 <strong>FinTech Data Analytics:</strong> Operational/Campaign/Log analysis, Predictive + inferential stats for credits
 
 ### Find me on:
