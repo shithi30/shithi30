@@ -14,9 +14,9 @@
 #### Ask me about:
 - 🤖 Web Scraping Applications ~ Automated market research & competition analytics
 - ✨ LLMs ~ ChatGPT API integration for eliciting service loopholes from eCom/CX data
-- ♻️ Better Retail Analytics ~ Handling 6M+ data-points for KPI matrices, Smarter RPL
-- 🎥 Unstructured Data ~ Parsing info. from large pdf texts into structured form, OCR
-- 💰 FinTech Analytics ~ Release/Campaign/Log analytics, Predictive/Inferential stats
+- ♻️ Supply Chain & Retail Analytics ~ Handle 6M+ points for KPI matrices, Smarter RPL
+- 🎥 Unstructured Data ~ Parsing info. from large pdfs into structured/tabular form, OCR 
+- 💰 FinTech Analytics ~ Release/Campaign/Log analytics, Predictive/Inferential statistics
 
 
 
