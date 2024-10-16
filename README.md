@@ -12,11 +12,11 @@
 — Geoffrey Moore, American organizational theorist
 
 #### Ask me about:
-- 🤖 Web Scraping Applications ~ Automated market research & competition analytics
-- ✨ LLMs ~ ChatGPT API integration for eliciting service loopholes from eCom/CX data
-- ♻️ Supply Chain & Retail Analytics ~ Handle 6M+ points for KPI matrices, Smarter RPL
-- 🎥 Unstructured Data ~ Parsing info. from large pdfs into structured/tabular form, OCR 
-- 💰 FinTech Analytics ~ Release/Campaign/Log analytics, Predictive/Inferential statistics
+&nbsp; &nbsp; 🤖 Web Scraping Applications ~ Automated market research & competition analytics <br>
+&nbsp; &nbsp; ✨ LLMs ~ ChatGPT API integration for eliciting service loopholes from eCom/CX data<br>
+&nbsp; &nbsp; ♻️ Supply Chain & Retail Analytics ~ Handle 6M+ points for KPI matrices, Smarter RPL<br>
+&nbsp; &nbsp; 🎥 Unstructured Data ~ Parsing info. from large pdfs into structured/tabular form, OCR<br>
+&nbsp; &nbsp; 💰 FinTech Analytics ~ Release/Campaign/Log analytics, Predictive/Inferential statistics<br>
 
 
 
