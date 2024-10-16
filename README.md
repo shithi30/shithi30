@@ -11,7 +11,7 @@
 > *Without big data, you are blind and deaf and in the middle of a freeway.*<br>
 — Geoffrey Moore, American organizational theorist
 
-#### Ask me about:
+Ask me about:
 - 🤖 Web Scraping Applications ~ Automated market research & competition analytics
 - ✨ LLMs ~ ChatGPT API integration for eliciting service loopholes from eCom/CX data
 - ♻️ Supply Chain & Retail Analytics ~ Handle 6M+ points for KPI matrices, Smarter RPL
