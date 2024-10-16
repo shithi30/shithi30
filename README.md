@@ -15,10 +15,10 @@ I use: `Python` `SQL` `dbt` `BigQuery, Cloud Storage` `Azure Apps` `DynamoDB, S3
 
 Ask me about:
 - 🤖 Web Scraping Applications ~ Automated market research & competition analytics
-- ✨ LLMs ~ ChatGPT API integration for eliciting service loopholes from eCom/CX data
 - ♻️ Supply Chain & Retail Analytics ~ Handle 6M+ points for KPI matrices, Smarter RPL
 - 🖼️ Unstructured Data ~ Parsing info. from large pdfs into structured/tabular form, OCR
 - 💰 FinTech Analytics ~ Release/Campaign/Log analytics, Predictive/Inferential statistics
+- ✨ LLMs ~ ChatGPT API integration for eliciting service loopholes from eCom/CX data
 
 
 
