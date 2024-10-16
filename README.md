@@ -1,4 +1,4 @@
-## Hello, Shithi here!👋
+### Hello, Shithi here!👋
 
 <!--I have expertise in the modern Data/Growth analytics stack, with a knack for cross-functional collaboration. Coming from a Computer Science background, I also have research articles presened in intl. conferences. I have recently moved to Canada and am looking for roles in the analytics domain.-->
 
