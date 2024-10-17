@@ -9,7 +9,7 @@
 > *Without big data, you are blind and deaf and in the middle of a freeway.*<br>
 — Geoffrey Moore, American organizational theorist
 
-I use: `Python` `SQL` `dbt` `Docker` `GCP - BigQuery, Cloud Storage` `AWS - DynamoDB, S3, Lambda, Glue, CloudWatch` `Azure Apps`
+I use: `Python` `SQL` `Docker` `dbt` `GCP - BigQuery, Cloud Storage` `AWS - DynamoDB, S3, Lambda, Glue, CloudWatch` `Azure Apps`
 
 Ask me about:
 - 🤖 Web Scraping Applications ~ Automated market research & competition analytics
