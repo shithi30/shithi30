@@ -11,7 +11,7 @@
 
 I use: `Python` `SQL` `Docker` `dbt` `GCP - BigQuery, Cloud Storage` `AWS - DynamoDB, S3, Lambda, Glue, CloudWatch` `Azure Apps`
 
-You can view my [portfolio](https://www.linkedin.com/in/shithi-maitra/).&nbsp;&nbsp;I bring expertise in:
+You can view my [portfolio](https://www.linkedin.com/in/shithi-maitra/). I bring expertise in:
 - 🤖 Web Scraping Applications ~ Automated market research & competition analytics
 - ♻️ Supply Chain & Retail Analytics ~ Handle 6M+ points for KPI matrices, Smarter RPL
 - 🖼️ Unstructured Data ~ Parsing info. from large pdfs into structured/tabular form, OCR
